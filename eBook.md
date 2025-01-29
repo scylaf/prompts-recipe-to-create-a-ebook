@@ -3,7 +3,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. através de modelos de prompts adaptados disponibilizados pelo professor.
 ## 📒 Descrição
-Este ebook tratamos das principais métricas usadas para medir e acompanhar a experiência do cliente.
+Este ebook trata das principais métricas usadas para medir e acompanhar a experiência do cliente.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
@@ -16,7 +16,7 @@ Este ebook tratamos das principais métricas usadas para medir e acompanhar a ex
 - Imagem disponível via Google
 
 ## 🚀 Resultados
-O ebook aborda de maneira compreensível um conjunto de ferramentas essenciais para entender como seus clientes estão se sentindo e como você pode melhorar a jornada deles continuamente.
+Um ebook que aborda de maneira compreensível um conjunto de ferramentas essenciais para entender como seus clientes estão se sentindo e como você pode melhorar a jornada deles continuamente.
 
 [LINK PARA O PODCAST AQUI]( https://github.com/scylaf/curso-DIO/blob/main/eBOOK_CX%20em%20Foco_%20Indicadores%20e%20M%C3%A9tricas%20Essenciais.pdf)
 
